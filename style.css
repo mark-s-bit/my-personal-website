@@ -1,3 +1,20 @@
+.head1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+#hi{
+  text-decoration: underline;
+  padding: 20px ;
+}
+
+#h2{
+    display:float;
+    align-items: first baseline;
+}
+
 body{
-    background-color: blue;
+
+    background-color:grey;
 }
